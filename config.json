@@ -1,7 +1,7 @@
 {
-  "host": "KK_02.aternos.me",
-  "port": 62312,
+  "host": "fearlesssmp.aternos.me",
+  "port": 11799,
   "username": "AFK_Bot",
   "auth": "offline",
-  "version": "1.21.11"
+  "version": "1.21.4"
 }
