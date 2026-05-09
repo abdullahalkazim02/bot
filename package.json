@@ -1,0 +1,15 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "AFK bot for Aternos server (Minecraft 1.21.11)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.17.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
